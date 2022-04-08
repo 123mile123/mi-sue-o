@@ -1,0 +1,40 @@
+body{
+    background-image: url("1.jpg");
+    background-size: cover;
+    padding: 0px;
+}
+
+h1{
+    color: #a7379a;
+    background-color: #E33231;
+    font-size: 50px;
+    text-align: center;
+} 
+
+.titulo{
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+
+}
+.subtitulo{
+    color: aliceblue;
+    font-size: 20px;
+}
+.parrafo{
+    color: white;
+    font-size: 15px;
+    text-align: justify;
+}
+.fecha{
+    color: aliceblue;   
+    font-size: 15px;
+    text-align: right;
+    background-color: #E33231;
+}
+.imagen{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
